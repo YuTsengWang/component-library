@@ -1,0 +1,1 @@
+This folder contains components for computing metrics on data and machine/deep learning models. Besides performance metrics (like accuracy, F1 score, area under ROC, ..) also "TrustedAI" metrics on adversarial robustness, fairness and explainability are supported.
